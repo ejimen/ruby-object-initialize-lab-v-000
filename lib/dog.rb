@@ -15,7 +15,7 @@ def name
 end
 
 def breed
-  "#{"Mutt"}"
+  @breed
 end
 
 end
